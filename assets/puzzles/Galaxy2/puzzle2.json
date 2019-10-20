@@ -1,0 +1,95 @@
+{"pictures": ["moon", "mercury", "neptune", "mars", "earth"
+],
+  "entities": [
+    {
+      "mass": 900000000,
+      "position": {
+        "x": 310.0,
+        "y": 145.0
+      },
+      "image": "moon",
+      "name": "planet"
+    },
+    {
+      "mass": 900000000,
+      "position": {
+        "x": 150.0,
+        "y": 450.0
+      },
+      "image": "moon",
+      "name": "planet"
+    },
+    {
+      "position": {
+        "x": 180.0,
+        "y": 275.0
+      },
+      "image": "coin",
+      "name": "coin"
+    },
+    {
+      "position": {
+        "x": 370.0,
+        "y": 330.0
+      },
+      "x_velocity": -50.0,
+      "y_velocity": 0.0,
+
+      "image": "asteroid",
+      "name": "asteroids"
+    },
+    {
+      "position": {
+        "x": -10.0,
+        "y": 250.0
+      },
+      "x_velocity": 50.0,
+      "y_velocity": 0.0,
+
+      "image": "asteroid",
+      "name": "asteroids"
+    }
+  ],
+
+  "actions": [
+    {
+      "mass": 500000000,
+      "position": {
+        "x": 18.0,
+        "y": 18.0
+       },
+      "image": "mars",
+      "name": "planet",
+      "quantity": 1
+    },
+    {
+      "position": {
+        "x": 18.0,
+        "y": 18.0
+      },
+      "image": "neptune",
+      "name": "sponge_planet",
+      "quantity": 1
+    },
+    {
+      "mass": 120,
+      "position": {
+        "x": 18.0,
+        "y": 18.0
+      },
+      "x2":23.0,
+      "y2":23.0,
+      "image": "portal",
+      "name": "portal",
+      "quantity": 1
+    }
+  ],
+  "end": {
+    "x": 310.0,
+    "y": 50.0
+  },
+  "start": {
+    "x": 345.0,
+    "y": 520.0
+  }
+}

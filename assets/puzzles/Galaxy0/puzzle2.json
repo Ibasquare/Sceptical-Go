@@ -1,0 +1,32 @@
+{"pictures": ["moon"],
+  "entities": [    {
+    "mass": 900000000,
+    "position": {
+      "x": 310.0,
+      "y": 200.0
+    },
+    "image": "moon",
+    "name": "planet"
+  }
+],
+
+  "actions": [
+    {
+      "position": {
+        "x": 18.0,
+        "y": 18.0
+      },
+      "image": "neptune",
+      "name": "sponge_planet",
+      "quantity": 1
+    }
+  ],
+  "end": {
+    "x": 310.0,
+    "y": 50.0
+  },
+  "start": {
+    "x": 310.0,
+    "y": 500.0
+  }
+}

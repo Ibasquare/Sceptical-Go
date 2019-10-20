@@ -1,0 +1,36 @@
+{"pictures": ["moon", "mercury", "neptune", "mars", "earth"
+],
+  "entities": [
+    {
+      "position": {
+        "x": -10.0,
+        "y": 300.0
+      },
+      "x_velocity": 150.0,
+      "y_velocity": -20.0,
+
+      "image": "asteroid",
+      "name": "asteroids"
+    }
+  ],
+
+  "actions": [
+    {
+      "position": {
+        "x": 38.0,
+        "y": 38.0
+      },
+      "image": "neptune",
+      "name": "sponge_planet",
+      "quantity": 1
+    }
+  ],
+  "end": {
+    "x": 180.0,
+    "y": 50.0
+  },
+  "start": {
+    "x": 180.0,
+    "y": 500.0
+  }
+}

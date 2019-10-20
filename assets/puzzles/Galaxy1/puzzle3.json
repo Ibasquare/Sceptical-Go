@@ -1,0 +1,46 @@
+{"pictures": ["moon", "mercury", "neptune", "mars"
+],
+"entities": [
+{
+ "position": {
+   "x": 180.0,
+   "y": 300.0
+ },
+ "image": "coin",
+ "name": "coin"
+},
+{
+ "position": {
+   "x": 180.0,
+   "y": 500.0
+ },
+ "x_velocity": 0.0,
+ "y_velocity": -50.0,
+
+ "image": "asteroid",
+ "name": "asteroids"
+}
+
+],
+
+"actions": [
+{
+ "mass": 500000000,
+ "position": {
+   "x": 18.0,
+   "y": 18.0
+  },
+ "image": "mars",
+ "name": "planet",
+ "quantity": 1
+}
+],
+"end": {
+"x": 30.0,
+"y": 440.0
+},
+"start": {
+"x": 330.0,
+"y": 520.0
+}
+}

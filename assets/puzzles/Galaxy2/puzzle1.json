@@ -1,0 +1,34 @@
+{"pictures": ["moon", "mercury", "neptune", "mars", "earth"
+],
+  "entities": [
+    {
+      "position": {
+        "x": 300.0,
+        "y": 120.0
+      },
+      "image": "neptune",
+      "name": "sponge_planet"
+    }
+  ],
+  "actions": [
+    {
+      "position": {
+        "x": 38.0,
+        "y": 38.0
+      },
+      "x2": 0.0,
+      "y2": 0.0,
+      "image": "portal",
+      "name": "portal",
+      "quantity": 1
+    }
+  ],
+  "end": {
+    "x": 330.0,
+    "y": 50.0
+  },
+  "start": {
+    "x": 30.0,
+    "y": 500.0
+  }
+}

@@ -1,0 +1,34 @@
+{"pictures": ["moon", "mercury", "neptune", "mars", "earth"
+],
+  "entities": [
+    {"mass": 900000000,
+      "position": {
+        "x": 300.0,
+        "y": 120.0
+      },
+      "image": "mars",
+      "name": "planet"
+    }
+  ],
+
+  "actions": [
+    {
+      "mass": 200000000,
+      "position": {
+        "x": 38.0,
+        "y": 38.0
+      },
+      "image": "mars",
+      "name": "planet",
+      "quantity": 1
+    }
+  ],
+  "end": {
+    "x": 330.0,
+    "y": 50.0
+  },
+  "start": {
+    "x": 180.0,
+    "y": 500.0
+  }
+}

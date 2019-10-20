@@ -1,0 +1,71 @@
+{"pictures": ["moon", "mercury", "neptune", "mars"],
+  "entities": [
+    {
+      "position": {
+        "x": 325.0,
+        "y": 250.0
+      },
+      "image": "neptune",
+      "name": "sponge_planet",
+      "quantity": 1
+    },
+    {"position": {
+      "x": 100.0,
+      "y": 125.0
+    },
+      "image":"coin",
+      "name":"coin"
+    },
+    {"position": {
+      "x": 250.0,
+      "y": 325.0
+    },
+      "image":"coin",
+      "name":"coin"
+    },
+    {
+      "position": {
+        "x": 370.0,
+        "y": 375.0
+      },
+      "x_velocity": -50.0,
+      "y_velocity": 0.0,
+
+      "image": "asteroid",
+      "name": "asteroids"
+    },
+    {
+      "position": {
+        "x": -10.0,
+        "y": 350.0
+      },
+      "x_velocity": 50.0,
+      "y_velocity": 0.0,
+
+      "image": "asteroid",
+      "name": "asteroids"
+    }
+  ],
+
+  "actions": [
+    {
+      "position": {
+        "x": 100.0,
+        "y": 250.0
+      },
+      "x2": 50.0,
+      "y2": 100.0,
+      "image": "portal",
+      "name": "portal",
+      "quantity": 1
+    }
+  ],
+  "end": {
+    "x": 200.0,
+    "y": 50.0
+  },
+  "start": {
+    "x": 180.0,
+    "y": 500.0
+  }
+}
