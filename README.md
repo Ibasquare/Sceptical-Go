@@ -23,4 +23,5 @@ Here is the final list of the packages used in our application. As part of the c
 ## About
 
 This project was made for the course of *Object-Oriented Programming on Mobile Devices* during the first quadrimester of 2018.
+
 This project was carried out by  Ben Mariem Sami, Derroitte Natan and Marechal Emeline.
